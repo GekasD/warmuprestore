@@ -12,7 +12,7 @@ public Plugin myinfo = {
 	author = "Demetrius",
 	description = "Restore the old CS:GO warmup, without the 1v1 arenas",
 	version = PLUGIN_VERSION,
-	url = "https://github.com/stalsus/warmuprestore"
+	url = "https://github.com/GekasD/warmuprestore"
 };
 
 public void OnEntityCreated(int entity, const char[] classname) {
